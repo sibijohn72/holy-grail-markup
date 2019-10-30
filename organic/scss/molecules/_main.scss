@@ -1,9 +1,0 @@
-.main {
-  @include atoms((
-    padding-bottom-42
-  )) {
-    overflow: hidden;
-
-    min-height: 100%;
-  };
-}
