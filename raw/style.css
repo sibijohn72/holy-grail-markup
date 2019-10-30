@@ -239,3 +239,17 @@ body {
 #search input {
   width: 10em;
 }
+
+#social a {
+  color: pink;
+}
+
+.related-article > div {
+  background: #eee;
+  border-radius: 10px;
+  padding: 10px;
+  }
+.related-article h2 {
+  font-size: 20px;
+  color: purple;  
+}
